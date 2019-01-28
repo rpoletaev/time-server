@@ -1,5 +1,5 @@
 # time-server
-implementation of rfc868. Only tcp
+implementation of rfc868. TCP only
 
 ### build:
 
